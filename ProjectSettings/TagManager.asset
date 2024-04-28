@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Cherry
   - Trap
+  - nxtlvl
   layers:
   - Default
   - TransparentFX
